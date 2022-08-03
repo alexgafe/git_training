@@ -5,6 +5,7 @@ Anthony is doing great job with Git!!!!
 
 
 We are going to make a conflict!!!!!!!!!
+Mateusz test text
 
 hello from Tsveta
 Kami`s text
