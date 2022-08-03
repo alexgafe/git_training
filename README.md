@@ -6,3 +6,4 @@ Anthony is doing great job with Git!!!!
 
 We are going to make a conflict!!!!!!!!!
 Mateusz test text
+Kami`s text
