@@ -3,7 +3,7 @@ Go Go Anthony! Help me git gud at git. And Alex DID Changes!!!
 
 Anthony is doing great job with Git!!!! 
 
-COnflict!!!
+Test 12345 - conflict
 We are going to make a conflict!!!!!!!!!
 Mateusz test text
 
